@@ -5,7 +5,6 @@ import json
 import re
 
 # from geopy import Nominatim
-import PyPDF2
 
 from src.bstsouecepkg.extract import Extract
 from src.bstsouecepkg.extract import GetPages
